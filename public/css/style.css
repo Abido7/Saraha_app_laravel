@@ -1,0 +1,31 @@
+body,
+div,
+div[attr="class"] {
+    background-color: #023749;
+    color: #ccc;
+}
+.navbar-brand {
+    color: #ccc !important;
+}
+img {
+    max-width: 200px !important;
+    max-height: 200px !important;
+}
+.card {
+    border: none !important;
+}
+input {
+    background: transparent !important;
+    color: #ccc !important;
+    border: 1px solid rgb(148, 146, 146) !important;
+}
+textarea {
+    resize: none;
+    color: #ccc !important;
+}
+.nav-profile img {
+    max-width: 40px !important;
+    max-height: 40px !important;
+    border-radius: 50%;
+    margin: 0 5px !important;
+}
